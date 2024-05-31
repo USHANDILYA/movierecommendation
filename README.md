@@ -1,5 +1,3 @@
-# movierecommendation
-Certainly! Here's a condensed version:
 ***Types of Recommendation System***
 1. **Content-Based Recommendation Systems**: Recommend items based on the attributes of the items themselves, such as genre or keywords.
 
